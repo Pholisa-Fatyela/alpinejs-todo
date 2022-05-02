@@ -1,6 +1,6 @@
 # AlpineJS Todo
 
-## For our todo app, a user:
+## For our todo app a user:
 - should be able to add a todo
 - should be able to see a list of todos
 - should be able to delete a todo
